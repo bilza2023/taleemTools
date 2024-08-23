@@ -1,7 +1,7 @@
 //@ts-nocheck
-import fbise9math from "./fbise9math";
-import fbise10math from "./fbise10math";
-import fbise9mathOld from "./fbise9mathOld";
+import fbise9math from "./fbise9math.js";
+import fbise10math from "./fbise10math.js";
+import fbise9mathOld from "./fbise9mathOld.js";
 import videoBlog from "./videoBlog.js";
  
 

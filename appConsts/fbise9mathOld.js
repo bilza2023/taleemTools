@@ -1,5 +1,5 @@
 
-import {getNewTcode} from "./TcodeObj";
+import {getNewTcode} from "./TcodeObj.js";
 
 
 
