@@ -1,11 +1,8 @@
 
 import AppConsts from "./appConsts/AppConsts.js";
+import db from "./ajax/index.js";
 
 
- function testFunction() {
-    return "test";
-  }
-
-  console.log("AppConsts" ,AppConsts);
-  export {testFunction,AppConsts}
+  
+export {AppConsts,db}
   
